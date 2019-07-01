@@ -1,3 +1,17 @@
+.gitignore
+
 *.pptx
 *.pdf
 *.docx
+*.txt
+*.xlsx
+
+old/
+ref/
+output/
+misc/
+data/
+
+*.pyc
+test*
+main.py
